@@ -118,3 +118,12 @@ common-exception은 common-response에 의존합니다. 함께 설치하세요.
 ```groovy
 implementation 'com.terayukee:common-response:0.0.1-SNAPSHOT'
 ```
+
+
+## ℹ️ 해당 라이브러리는 GitHub Packages를 통해 배포됩니다.
+>
+> 패키지를 사용하려면:
+> - GitHub 계정에서 PAT를 발급하고 (`read:packages` 권한 필요)
+> - 이 repository에 read 권한이 있어야 합니다.
+>
+> 권한이 없을 경우, 작성자에게 요청해 주세요.
